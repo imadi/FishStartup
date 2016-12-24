@@ -6,8 +6,6 @@ echo "  _    _ _               _ _
  | |  | | |  / ____ \ (_| | |
  |_|  |_|_| /_/    \_\__,_|_|"
 
-
-#echo (date +'%p')
 set period (date +'%p')
 set hour (date +'%I')
 set_color blue
