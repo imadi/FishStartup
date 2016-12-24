@@ -64,10 +64,3 @@ end
 if [ "$period" = "AM" ]
   echo $morning
 end
-export GROOVY_HOME='/Users/adi/SE/groovy-2.4.7'
-export GRAILS_HOME='/Users/adi/SE/grails-3.1.7'
-export JAVA_HOME='/Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home'
-set -x PATH $PATH /sbin/
-set -x PATH $PATH $GROOVY_HOME/bin
-set -x PATH $PATH $GRAILS_HOME/bin
-set -x PATH $PATH /Applications/Postgres.app/Contents/Versions/latest/bin
